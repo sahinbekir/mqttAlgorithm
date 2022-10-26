@@ -1,0 +1,5 @@
+config~=0.5.1
+fastapi~=0.75.2
+paho-mqtt~=1.6.1
+requests~=2.27.1
+python-dotenv~=0.19.2
